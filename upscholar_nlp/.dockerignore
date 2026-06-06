@@ -1,0 +1,15 @@
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.git/
+.vscode/
+.idea/
+
+# Evitar enviar archivos extremadamente pesados al contexto de Docker build.
+# Estos serán manejados por el script entrypoint.sh o montados como volúmenes.
+models/
+data/abstract_embeddings.npy
+data/matriz_*.csv

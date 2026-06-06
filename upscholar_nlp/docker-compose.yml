@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  upscholar-app:
+    build: .
+    image: buscador
+    container_name: buscador-app
+    ports:
+      - "5000:5000"
+    volumes:
+      # Montamos data y models para que no tenga que regenerarlos si ya los generaste localmente
+      # y para que los cambios en CSV se reflejen de inmediato.
+      - ./data:/app/data
+      - ./models:/app/models
+    restart: unless-stopped
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflared-tunnel
+    command: tunnel --no-autoupdate run --token eyJhIjoiMWViZTViMjM1NjE0ZTBhNmEyZjMwMzYxMmQ0MmU4YmUiLCJ0IjoiYjAyZDY1NzUtZGNiZC00ODlmLWE0YjUtZmEyMzRmOGQ4ZDA3IiwicyI6Ik5UZzVPVGxpWTJZdE1XUXpOaTAwT1RGaUxUaG1OR1F0TmpCaFkyTmlNbU14WWpNeSJ9
+    restart: unless-stopped
+    # Al compartir el network_mode con la app, cuando cloudflared busca "localhost:5000",
+    # se conecta directamente al contenedor de python, evitando problemas de enrutamiento.
+    network_mode: "service:upscholar-app"
+    depends_on:
+      - upscholar-app
