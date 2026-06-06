@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UPScholar</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="background-watermark"></div>
+
+    <div class="app-container">
+        <!-- barra lateral vaya -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>Proyecto Primer Parcial</h2>
+            </div>
+            <ul class="sidebar-menu">
+                <li class="active" id="menu-dataset"><a href="#">Buscador por Dataset</a></li>
+                <li id="menu-embeddings"><a href="#">Buscador por Embeddings</a></li>
+
+            </ul>
+        </aside>
+
+        <main class="main-content">
+            <header class="top-bar">
+                <div class="top-bar-content">
+                    <h1>UPScholar</h1>
+                    <img src="Recurso/UPS.png" alt="UPS Logo" class="top-logo">
+                </div>
+            </header>
+
+            <div class="content-wrapper">
+                <section class="search-section">
+                    <form id="search-form">
+                        <div class="search-box">
+                            <input type="text" id="query-input"
+                                placeholder="Ej: deep learning medical image segmentation" required>
+                            <button type="submit" id="search-btn">Buscar</button>
+                        </div>
+                    </form>
+
+                    <div id="loader" class="loader-overlay hidden">
+                        <div class="spinner"></div>
+                        <p>Buscando artículos...</p>
+                    </div>
+                </section>
+
+                <div id="query-info-container"></div>
+
+                <section id="results-container" class="results-container hidden">
+                    <h2 id="results-title">Resultados principales para: <span id="query-display"></span></h2>
+                    <div id="results-list">
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

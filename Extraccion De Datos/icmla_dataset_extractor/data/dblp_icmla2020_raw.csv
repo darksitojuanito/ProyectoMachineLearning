@@ -1,0 +1,231 @@
+dblp_title,dblp_authors,dblp_pages,ieee_url
+Writer identification for historical handwritten documents using a single feature extraction method.,"Michel Chammas, Abdallah Makhoul, Jacques Demerjian",1-6,https://doi.org/10.1109/ICMLA51294.2020.00010
+Extending SpArSe: Automatic Gesture Recognition Architectures for Embedded Devices.,"Juan Borrego-Carazo, David Castells-Rufas, Jordi Carrabina, Ernesto Biempica",7-12,https://doi.org/10.1109/ICMLA51294.2020.00011
+Multi-Class 3D Object Detection Within Volumetric 3D Computed Tomography Baggage Security Screening Imagery.,"Qian Wang, Neelanjan Bhowmik, Toby P. Breckon",13-18,https://doi.org/10.1109/ICMLA51294.2020.00012
+Learning to Solve Combinatorial Optimization Problems on Real-World Graphs in Linear Time.,"Iddo Drori, Anant Kharkar, William R. Sickinger, Brandon Kates, Qiang Ma, Suwen Ge, Eden Dolev, Brenda Dietrich, David P. Williamson, Madeleine Udell",19-24,https://doi.org/10.1109/ICMLA51294.2020.00013
+Knowledge Graph Extraction from Videos.,"Louis Mahon, Eleonora Giunchiglia, Bowen Li, Thomas Lukasiewicz",25-32,https://doi.org/10.1109/ICMLA51294.2020.00014
+Tsallis Entropy Based Labelling.,"Kentaro Goto, Masato Uchida",33-40,https://doi.org/10.1109/ICMLA51294.2020.00015
+Learning with Unpaired Data.,Jiebo Luo,38,https://doi.org/10.1109/ICMLA51294.2020.00008
+A Cognitive Architecture for Object Recognition in Video.,José C. Príncipe,39,https://doi.org/10.1109/ICMLA51294.2020.00009
+Online Gaussian LDA for Unsupervised Pattern Mining from Utility Usage Data.,"Saad Mohamad, Abdelhamid Bouchachia",41-48,https://doi.org/10.1109/ICMLA51294.2020.00016
+Evaluating Mixed-Precision Arithmetic for 3D Generative Adversarial Networks to Simulate High Energy Physics Detectors.,"John Osorio Ríos, Adrià Armejach, Gulrukh Khattak, Eric Petit, Sofia Vallecorsa, Marc Casas",49-56,https://doi.org/10.1109/ICMLA51294.2020.00017
+Single Camera Masked Face Identification.,"Vivek Aswal, Omkar Tupe, Shifa Shaikh, Nadir N. Charniya",57-60,https://doi.org/10.1109/ICMLA51294.2020.00018
+Public Dataset of Parking Lot Videos for Computational Vision Applied to Surveillance.,"Ingrid Nascimento, Pedro Castro, Sofia Klautau, Luan Gonçalves, Carnot Filho, Flávio Brito, Aldebaro Klautau, Silvia Lins",61-64,https://doi.org/10.1109/ICMLA51294.2020.00019
+Low-Rank Sparse Tensor Approximations for Large High-Resolution Videos.,"Xiang Liu, Huyunting Huang, Weitao Tang, Tonglin Zhang, Baijian Yang",65-70,https://doi.org/10.1109/ICMLA51294.2020.00020
+MaskedFusion: Mask-based 6D Object Pose Estimation.,"Nuno Pereira, Luís A. Alexandre",71-78,https://doi.org/10.1109/ICMLA51294.2020.00021
+Neural Architecture Search for Automotive Grid Fusion Networks Under Embedded Hardware Constraints.,"Gábor Balázs, Walter Stechele",79-86,https://doi.org/10.1109/ICMLA51294.2020.00022
+Harmonic Structure-Based Neural Network Model for Music Pitch Detection.,"Xian Wang, Lingqiao Liu, Qinfeng Shi",87-92,https://doi.org/10.1109/ICMLA51294.2020.00023
+From Quantitative Analysis to Synthesis of Efficient Binary Neural Networks.,"Tim Stadtmann, Cecilia Latotzke, Tobias Gemmeke",93-100,https://doi.org/10.1109/ICMLA51294.2020.00024
+Analysis of Generalizability of Deep Neural Networks Based on the Complexity of Decision Boundary.,"Shuyue Guan, Murray H. Loew",101-106,https://doi.org/10.1109/ICMLA51294.2020.00025
+Neural Data Augmentation Techniques for Time Series Data and its Benefits.,"Anindya Sarkar, Anirudh Sunder Raj, Raghu Sesha Iyengar",107-114,https://doi.org/10.1109/ICMLA51294.2020.00026
+Verifying Artificial Neural Network Classifier Performance Using Dataset Dissimilarity Measures.,"Darryl Hond, Hamid Asgari, Daniel Jeffery",115-121,https://doi.org/10.1109/ICMLA51294.2020.00027
+Deep neural network for load forecasting centred on architecture evolution.,"Santiago Gomez-Rosero, Miriam A. M. Capretz, Syed Mir",122-129,https://doi.org/10.1109/ICMLA51294.2020.00028
+Finite Difference Neural Networks: Fast Prediction of Partial Differential Equations.,"Zheng Shi, Nur Sila Gulgec, Albert S. Berahas, Shamim N. Pakzad, Martin Takác",130-135,https://doi.org/10.1109/ICMLA51294.2020.00029
+Efficient and Compact Convolutional Neural Network Architectures for Non-temporal Real-time Fire Detection.,"William Thomson, Neelanjan Bhowmik, Toby P. Breckon",136-141,https://doi.org/10.1109/ICMLA51294.2020.00030
+LB-CNN: Convolutional Neural Network with Latent Binarization for Large Scale Multi-class Classification.,"Timothy Reese, Michael Zhu",142-147,https://doi.org/10.1109/ICMLA51294.2020.00031
+NGM: Neural Gaussian Mirror for Controlled Feature Selection in Neural Networks.,"Xin Xing, Yu Gui, Chenguang Dai, Jun S. Liu",148-152,https://doi.org/10.1109/ICMLA51294.2020.00032
+Adaptive Algorithm for Estimation of Model of Neural Activity in Brain-Computer Interfaces.,"Sergei A. Plotnikov, Alexander L. Fradkov, Denis N. Komarov",153-156,https://doi.org/10.1109/ICMLA51294.2020.00033
+Applying Gradient Boosting Trees and Stochastic Leaf Evaluation to MCTS on Hearthstone.,"Tasos Papagiannis, Georgios Alexandridis, Andreas Stafylopatis",157-162,https://doi.org/10.1109/ICMLA51294.2020.00034
+Discovering Gene-Disease Associations with Biomedical Word Embeddings.,"Payal Mitra, Thom Pijnenburg, Viachaslau Sazonau",163-170,https://doi.org/10.1109/ICMLA51294.2020.00035
+Online Cluster Drift Detection for Novelty Detection in Data Streams.,"Shon Mendelson, Boaz Lerner",171-178,https://doi.org/10.1109/ICMLA51294.2020.00036
+A clustering-based biased Monte Carlo approach to protein titration curve prediction.,"Arun V. Sathanur, Nathan A. Baker",179-184,https://doi.org/10.1109/ICMLA51294.2020.00037
+GCN with Clustering Coefficients and Attention Module.,"Rakesh Kumar Yadav, Abhishek, Sourav S, Shekhar Verma",185-190,https://doi.org/10.1109/ICMLA51294.2020.00038
+Anomaly Detection in Unsupervised Surveillance Setting Using Ensemble of Multimodal Data with Adversarial Defense.,"Sayeed Shafayet Chowdhury, Kazi Mejbaul Islam, Rouhan Noor",191-194,https://doi.org/10.1109/ICMLA51294.2020.00039
+RAM-Net: A Residual Attention MobileNet to Detect COVID-19 Cases from Chest X-Ray Images.,"Md. Aminur Rab Ratul, Maryam Tavakol Elahi, Kun Yuan, Won-Sook Lee",195-200,https://doi.org/10.1109/ICMLA51294.2020.00040
+Regression Ensembles for Fast Design Space Exploration of Heterogeneous Hardware Designs.,"Alba Sandyra Bezerra Lopes, Anne Magály de Paula Canuto, Monica Magalhães Pereira",201-204,https://doi.org/10.1109/ICMLA51294.2020.00041
+Falsification-Based Robust Adversarial Reinforcement Learning.,"Xiao Wang, Saasha Nair, Matthias Althoff",205-212,https://doi.org/10.1109/ICMLA51294.2020.00042
+Modeling Agent Behaviors for Policy Analysis via Reinforcement Learning.,"Osonde A. Osoba, Raffaele Vardavas, Justin Grana, Rushil Zutshi, Amber Jaycocks",213-219,https://doi.org/10.1109/ICMLA51294.2020.00043
+SASBO: Self-Adapting Safe Bayesian Optimization.,"Stefano De Blasi, Alexander Gepperth",220-225,https://doi.org/10.1109/ICMLA51294.2020.00044
+Reinforcement Learning based Evolutionary Metric Filtering for High Dimensional Problems.,"Bassel Ali, Koichi Moriyama, Masayuki Numao, Ken-ichi Fukui",226-233,https://doi.org/10.1109/ICMLA51294.2020.00045
+Optimizing CNN using Fast Fourier Transformation for Object Recognition.,"Varsha Nair, Moitrayee Chatterjee, Neda Tavakoli, Akbar Siami Namin, Craig Snoeyink",234-239,https://doi.org/10.1109/ICMLA51294.2020.00046
+A proposal for online analysis and identification of fraudulent financial transactions.,"Rodrigo Araujo Lima Torres, Marcelo Ladeira",240-245,https://doi.org/10.1109/ICMLA51294.2020.00047
+Bayesian Sampler: Fairness in Sampling.,Ishani Chakraborty,246-251,https://doi.org/10.1109/ICMLA51294.2020.00048
+Use of Auxiliary Classifier Generative Adversarial Network in Touchstroke Authentication.,"Debzani Deb, Mina M. Guirguis",252-257,https://doi.org/10.1109/ICMLA51294.2020.00049
+Cell Type Identification from Single-Cell Transcriptomic Data via Gene Embedding.,"Shanta Chowdhury, Xishuang Dong, Oscar A. Solis, Lijun Qian, Xiangfang Li",258-263,https://doi.org/10.1109/ICMLA51294.2020.00050
+Deep Multiple Instance Learning Ensemble for the Acoustic Detection of Tropical Birds.,"Jorge Castro, Roberto Vargas-Masís, Danny Alfaro Rojas",264-269,https://doi.org/10.1109/ICMLA51294.2020.00051
+Unsupervised ageing detection of mechanical systems on a causality graph.,"Edouard Pineau, Sébastien Razakarivony, Thomas Bonald",270-277,https://doi.org/10.1109/ICMLA51294.2020.00052
+AI-based prediction for early detection of Tuberculosis in India based on environmental factors.,"Nupur Giri, Richard Joseph, Sanika Chavan, Raghav Heda, Reema Israni, Ritika Sethiya",278-285,https://doi.org/10.1109/ICMLA51294.2020.00053
+Ensemble Hyperspectral Band Selection for Detecting Nitrogen Status in Grape Leaves.,"Ryan Omidi, Ali Moghimi, Alireza Pourreza, Mohamed El-Hadedy, Anas Salah Eddin",286-293,https://doi.org/10.1109/ICMLA51294.2020.00054
+Multimodal Word Sense Disambiguation in Creative Practice.,"Manuel Ladron de Guevara, Christopher George, Akshat Gupta, Daragh Byrne, Ramesh Krishnamurti",294-301,https://doi.org/10.1109/ICMLA51294.2020.00055
+Topological Data Analysis to Engineer Features from Audio Signals for Depression Detection.,"M. L. Tlachac, Adam Sargent, Ermal Toto, Randy C. Paffenroth, Elke A. Rundensteiner",302-307,https://doi.org/10.1109/ICMLA51294.2020.00056
+Deep Metric Learning for Proteomics.,"Mark Lennox, Neil Robertson, Barry Devereux",308-313,https://doi.org/10.1109/ICMLA51294.2020.00057
+Automatic generation of reviews of scientific papers.,"Anna Nikiforovskaya, Nikolai Kapralov, Anna Vlasova, Oleg Shpynov, Aleksei Shpilman",314-319,https://doi.org/10.1109/ICMLA51294.2020.00058
+TransCrossCF: Transition-based Cross-Domain Collaborative Filtering.,"Thanh-Nam Doan, Shaghayegh Sahebi",320-327,https://doi.org/10.1109/ICMLA51294.2020.00059
+Semantic Nonnegative Matrix Factorization with Automatic Model Determination for Topic Modeling.,"Raviteja Vangara, Erik Skau, Gopinath Chennupati, Hristo N. Djidjev, Thomas Tierney, James P. Smith, Manish Bhattarai, Valentin G. Stanev, Boian S. Alexandrov",328-335,https://doi.org/10.1109/ICMLA51294.2020.00060
+Interpreting Attention Models: LSTM vs. CNN : A case study on customer activation.,"Koen Weterings, Shir-Lee Kimelman, Stefano Bromuri, Marko C. J. D. van Eekelen",336-343,https://doi.org/10.1109/ICMLA51294.2020.00061
+K-metamodes: frequency-and ensemble-based distributed k-modes clustering for security analytics.,"Andrey Sapegin, Christoph Meinel",344-351,https://doi.org/10.1109/ICMLA51294.2020.00062
+Linguistic Features for Detecting Fake Reviews.,"Faranak Abri, Luis Felipe Gutiérrez, Akbar Siami Namin, Keith S. Jones, David R. W. Sears",352-359,https://doi.org/10.1109/ICMLA51294.2020.00063
+Unsupervised Open Set Recognition using Adversarial Autoencoders.,"Mehadi Hassen, Philip K. Chan",360-365,https://doi.org/10.1109/ICMLA51294.2020.00064
+Tuberculosis Bacilli Identification: A Novel Feature Extraction Approach via Statistical Shape and Color Models.,"Hamed Yousefi, Farnaz Mohammadi, Niloufar Mirian, Navid Amini",366-371,https://doi.org/10.1109/ICMLA51294.2020.00065
+cFAT-GAN: Conditional Simulation of Electron-Proton Scattering Events with Variate Beam Energies by a Feature Augmented and Transformed Generative Adversarial Network.,"Luisa Velasco, Evan McClellan, Nobuo Sato, Pawel Ambrozewicz, Tianbo Liu, Wally Melnitchouk, Michelle P. Kuchera, Yasir Alanazi, Yaohang Li",372-375,https://doi.org/10.1109/ICMLA51294.2020.00066
+DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection.,"Danish Syed, Naman Gandhi, Arushi Arora, Nilesh Kadam",376-383,https://doi.org/10.1109/ICMLA51294.2020.00067
+Ensemble CNN in Transform Domains for Image Super-resolution from Small Data Sets.,"Yingnan Liu, Randy Clinton Paffenroth",384-391,https://doi.org/10.1109/ICMLA51294.2020.00068
+PENet: Object Detection Using Points Estimation in High Definition Aerial Images.,"Ziyang Tang, Xiang Liu, Baijian Yang",392-398,https://doi.org/10.1109/ICMLA51294.2020.00069
+EVISClass: a new evaluation method for image data stream classifiers.,"Mateus Curcino de Lima, Maria Camila Nardini Barioni, Elaine R. Faria, Humberto Luiz Razente",399-406,https://doi.org/10.1109/ICMLA51294.2020.00070
+Conditional Score Matching for Image to Image Regression.,"Hao Xin, Michael Yu Zhu",407-414,https://doi.org/10.1109/ICMLA51294.2020.00071
+Evaluating The Number of Trainable Parameters on Deep Maxout and LReLU Networks for Visual Recognition.,"Gabriel Castaneda, Paul Morris, Taghi M. Khoshgoftaar",415-421,https://doi.org/10.1109/ICMLA51294.2020.00072
+Enhanced Anisotropic Diffusion-based CNN-LSTM Architecture for Video Face Liveness Detection.,"Ranjana Koshy, Ausif Mahmood",422-425,https://doi.org/10.1109/ICMLA51294.2020.00074
+Loss Scheduling for Class-Imbalanced Image Segmentation Problems.,"Oskar Taubert, Markus Götz, Alexander Schug, Achim Streit",426-431,https://doi.org/10.1109/ICMLA51294.2020.00073
+Refined Plane Segmentation for Cuboid-Shaped Objects by Leveraging Edge Detection.,"Alexander Naumann, Laura Dörr, Niels Ole Salscheider, Kai Furmans",432-437,https://doi.org/10.1109/ICMLA51294.2020.00096
+Deep Learning Based Covert Attack Identification for Industrial Control Systems.,"Dan Li, Paritosh Ramanan, Nagi Gebraeel, Kamran Paynabar",438-445,https://doi.org/10.1109/ICMLA51294.2020.00075
+Deep Learning for Automatic Quality Grading of Mangoes: Methods and Insights.,"Shih-Lun Wu, Hsiao-Yen Tung, Yu-Lun Hsu",446-453,https://doi.org/10.1109/ICMLA51294.2020.00076
+A Deep Learning Framework for Ensuring Responsible Play in Skill-based Cash Gaming.,"Deepanshi Seth, Sharanya Eswaran, Tridib Mukherjee, Mridul Sachdeva",454-459,https://doi.org/10.1109/ICMLA51294.2020.00077
+Rapid Class Augmentation For Continuous Deep Learning Applications.,Hanna E. Witzgall,460-466,https://doi.org/10.1109/ICMLA51294.2020.00078
+Crafting Adversarial Examples for Deep Learning Based Prognostics.,"Gautam Raj Mode, Khaza Anuarul Hoque",467-472,https://doi.org/10.1109/ICMLA51294.2020.00079
+Efficient Defect Detection from Consecutive Monocular Images by Deep Learning.,"Truong Vinh Truong Duy, Naotake Natori",473-478,https://doi.org/10.1109/ICMLA51294.2020.00080
+Theoretical Analysis of the Advantage of Deepening Neural Networks.,"Yasushi Esaki, Yuta Nakahara, Toshiyasu Matsushima",479-484,https://doi.org/10.1109/ICMLA51294.2020.00081
+Heart Audio Classification Using Deep Learning.,"Arooshi Taneja, Yashvi Gulati, Tushar Chugh, Pawan Joshi, Narina Thakur",485-488,https://doi.org/10.1109/ICMLA51294.2020.00082
+Deep Learning-based Symbolic Indoor Positioning using the Serving eNodeB.,"Fahad Al-homayani, Mohammad H. Mahoor",489-494,https://doi.org/10.1109/ICMLA51294.2020.00083
+Generalized Adversarial Distances to Efficiently Discover Classifier Errors.,"Walter D. Bennette, Sally Dufek, Karsten Maurer, Sean Sisti, Bunyod Tusmatov",495-502,https://doi.org/10.1109/ICMLA51294.2020.00084
+Segmentation of Multi-State Compound Waveform and Extraction of Features for Anomaly Detection.,"Topon Kumar Paul, Takeichiro Nishikawa, Shigeru Maya, Akihiro Itakura, Toshihide Kawachi, Akira Ogawa, Hiroshi Yokota",503-510,https://doi.org/10.1109/ICMLA51294.2020.00085
+Kernel Ridge Regression Using Importance Sampling with Application to Seismic Response Prediction.,"Farhad Pourkamali-Anaraki, Mohammad Amin Hariri-Ardebili, Lydia Morawiec",511-518,https://doi.org/10.1109/ICMLA51294.2020.00086
+HASeparator: Hyperplane-Assisted Softmax.,"Ioannis Kansizoglou, Nicholas Santavas, Loukas Bampis, Antonios Gasteratos",519-526,https://doi.org/10.1109/ICMLA51294.2020.00087
+Dimension Estimation Using Autoencoders with Applications to Financial Market Analysis.,"Nitish Bahadur, Randy C. Paffenroth",527-534,https://doi.org/10.1109/ICMLA51294.2020.00088
+An Investigation of Dynamic Feature Selection Methods Applied to Classifier Ensembles.,"Rômulo de O. Nunes, Carine A. Dantas, Anne M. P. Canuto, João Carlos Xavier Jr.",535-538,https://doi.org/10.1109/ICMLA51294.2020.00089
+Domain adaptation from clinical trials data to the tertiary care clinic - Application to ALS.,"Ben Hadad, Boaz Lerner",539-544,https://doi.org/10.1109/ICMLA51294.2020.00090
+Improving Fraud Detection and Concept Drift Adaptation in Credit Card Transactions Using Incremental Gradient Boosting Trees.,"Baris Bayram, Bilge Köroglu, Mehmet Gönen",545-550,https://doi.org/10.1109/ICMLA51294.2020.00091
+Spatio-Temporal Change Detection with Granger Causality Based Cluster Sequence Mining.,"Nat Pavasant, Masayuki Numao, Ken-ichi Fukui",551-558,https://doi.org/10.1109/ICMLA51294.2020.00092
+CAE: Towards Crowd Anarchism Exploration.,"Mayamin Hamid Raha, Tonmoay Deb, Mahieyin Rahmun, Shahriar Ali Bijoy, Adnan Firoze, Mohammad Ashrafuzzaman Khan",559-564,https://doi.org/10.1109/ICMLA51294.2020.00093
+f2tag - Can Tags be Predicted Using Formulas?,"Sebastian Wankerl, Gerhard Götz, Andreas Hotho",565-571,https://doi.org/10.1109/ICMLA51294.2020.00094
+Performance of CatBoost and XGBoost in Medicare Fraud Detection.,"John T. Hancock, Taghi M. Khoshgoftaar",572-579,https://doi.org/10.1109/ICMLA51294.2020.00095
+CQ-VAE: Coordinate Quantized VAE for Uncertainty Estimation with Application to Disk Shape Analysis from Lumbar Spine MRI Images.,"Linchen Qian, Jiasong Chen, Timur Urakov, Weiyong Gu, Liang Liang",580-585,https://doi.org/10.1109/ICMLA51294.2020.00097
+Towards logical association rule mining on ontology-based semantic trajectories.,"Antonio Carlos Falcão Petri, Diego Furtado Silva",586-591,https://doi.org/10.1109/ICMLA51294.2020.00098
+Analysis of COVID-19 in different countries using Wigner energy distribution and clustering.,Ranjani Murali,592-597,https://doi.org/10.1109/ICMLA51294.2020.00099
+Accurate Characterization of Non-Uniformly Sampled Time Series using Stochastic Differential Equations.,Stijn de Waele,598-603,https://doi.org/10.1109/ICMLA51294.2020.00100
+HybriDG: Hybrid Dynamic Time Warping and Gaussian Distribution Model for Detecting Emerging Zero-Day Microarchitectural Side-Channel Attacks.,"Han Wang, Hossein Sayadi, Avesta Sasan, Setareh Rafatirad, Houman Homayoun",604-611,https://doi.org/10.1109/ICMLA51294.2020.00101
+LOCO: Logistics Objects in Context.,"Christopher Mayershofer, Dimitrij-Marian Holm, Benjamin Molter, Johannes Fottner",612-617,https://doi.org/10.1109/ICMLA51294.2020.00102
+Dense Broad Learning System with Proportional Integral Differential and Adaptive Moment Estimation.,"Weidong Zou, Yuanqing Xia, Weipeng Cao",618-625,https://doi.org/10.1109/ICMLA51294.2020.00103
+Benchmarking Machine Learning Solutions in Production.,"Lucas Cardoso Silva, Fernando Rezende Zagatti, Bruno Silva Sette, Lucas Nildaimon dos Santos Silva, Daniel Lucrédio, Diego Furtado Silva, Helena de Medeiros Caseli",626-633,https://doi.org/10.1109/ICMLA51294.2020.00104
+Forecasting Rogue Waves in Oceanic Waters.,"Pujan Pokhrel, Elias Ioup, Md. Tamjidul Hoque, Mahdi Abdelguerfi, Julian Simeonov",634-640,https://doi.org/10.1109/ICMLA51294.2020.00105
+Combining Temporal Event Relations and Pre-Trained Language Models for Text Summarization.,Divyanshu Daiya,641-646,https://doi.org/10.1109/ICMLA51294.2020.00106
+Multi-Class Object Detection Using 2D Poses.,"Christopher Mayershofer, Ala Hammami, Johannes Fottner",647-652,https://doi.org/10.1109/ICMLA51294.2020.00107
+A Collaborative Filtering Approach to Successfully Completing The Marathon.,"Jakim Berndsen, Barry Smyth, Aonghus Lawlor",653-658,https://doi.org/10.1109/ICMLA51294.2020.00108
+Distance-Based Multivariate Anomaly Detection in Wire Arc Additive Manufacturing.,"Raven Reisch, Tobias Hauser, Benjamin Lutz, Matteo Pantano, Tobias Kamps, Alois C. Knoll",659-664,https://doi.org/10.1109/ICMLA51294.2020.00109
+pReview: The Artificially Intelligent Conference Reviewer.,"Jesse Roberts, Douglas H. Fisher",665-668,https://doi.org/10.1109/ICMLA51294.2020.00110
+On Analyzing COVID-19-related Hate Speech Using BERT Attention.,"Nishant Vishwamitra, Ruijia (Roger) Hu, Feng Luo, Long Cheng, Matthew Costello, Yin Yang",669-676,https://doi.org/10.1109/ICMLA51294.2020.00111
+Real-World Multi-Domain Data Applications for Generalizations to Clinical Settings.,"Nooshin Mojab, Vahid Noroozi, Darvin Yi, Manoj Prabhakar Nallabothula, Abdullah Aleem, Philip S. Yu, Joelle A. Hallak",677-684,https://doi.org/10.1109/ICMLA51294.2020.00112
+Robust Detection of Objects under Periodic Motion with Gaussian Process Filtering.,"Joris Guérin, Anne Magály de Paula Canuto, Luiz Marcos Garcia Gonçalves",685-692,https://doi.org/10.1109/ICMLA51294.2020.00113
+Dual-encoder Bidirectional Generative Adversarial Networks for Anomaly Detection.,"Teguh Budianto, Tomohiro Nakai, Kazunori Imoto, Takahiro Takimoto, Kosuke Haruki",693-700,https://doi.org/10.1109/ICMLA51294.2020.00114
+Finding and Segmenting Mathematical Equations in Students' Online Handwritten Assignments.,"Amirali Darvishzadeh, Thomas F. Stahovich",701-708,https://doi.org/10.1109/ICMLA51294.2020.00115
+MuSeM: Detecting Incongruent News Headlines using Mutual Attentive Semantic Matching.,"Rahul Mishra, Piyush Yadav, Rémi Calizzano, Markus Leippold",709-716,https://doi.org/10.1109/ICMLA51294.2020.00116
+Lower Bounds for Adversarially Robust PAC Learning under Evasion and Hybrid Attacks.,"Dimitrios I. Diochnos, Saeed Mahloujifar, Mohammad Mahmoody",717-722,https://doi.org/10.1109/ICMLA51294.2020.00117
+Predicting purchase probability of retail items using an ensemble learning approach and historical data.,"Archika Sharma, M. Omair Shafiq",723-728,https://doi.org/10.1109/ICMLA51294.2020.00118
+Blockchain-Based Federated Learning Against End-Point Adversarial Data Corruption.,"Yuwei Sun, Hiroshi Esaki, Hideya Ochiai",729-734,https://doi.org/10.1109/ICMLA51294.2020.00119
+Federated Learning of Neural Network Models with Heterogeneous Structures.,"Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Chawanat Nakasan",735-740,https://doi.org/10.1109/ICMLA51294.2020.00120
+Learning Uncertainties in Wheel Odometry for Vehicular Localisation in GNSS Deprived Environments.,"Uche Onyekpe, Vasile Palade, Stratis Kanarachos, Stavros-Richard G. Christopoulos",741-746,https://doi.org/10.1109/ICMLA51294.2020.00121
+CRUFT: Context Recognition under Uncertainty using Fusion and Temporal Learning.,"Wen Ge, Emmanuel Agu",747-752,https://doi.org/10.1109/ICMLA51294.2020.00122
+Forecasting Attrition from the Canadian Armed Forces using Multivariate LSTM.,"Ryuichi Ueno, Dragos Calitoiu",753-758,https://doi.org/10.1109/ICMLA51294.2020.00123
+Using Undersampling with Ensemble Learning to Identify Factors Contributing to Preterm Birth.,"Shi Dong, Zlatan Feric, Guangyu Li, Chieh Wu, April Z. Gu, Jennifer G. Dy, John Meeker, Ingrid Y. Padilla, José Cordero, Carmen Velez Vega, Zaira Rosario, Akram Alshawabkeh, David R. Kaeli",759-764,https://doi.org/10.1109/ICMLA51294.2020.00124
+N-BEATS-RNN: deep learning for time series forecasting.,"Attilio Sbrana, André Luis Debiaso Rossi, Murilo Coelho Naldi",765-768,https://doi.org/10.1109/ICMLA51294.2020.00125
+Partly Supervised Multi-Task Learning.,"Abdullah-Al-Zubaer Imran, Chao Huang, Hui Tang, Wei Fan, Yuan Xiao, Dingjun Hao, Zhen Qian, Demetri Terzopoulos",769-774,https://doi.org/10.1109/ICMLA51294.2020.00126
+Towards Machine Learning Explainability in Text Classification for Fake News Detection.,"Lukas Kurasinski, Radu-Casian Mihailescu",775-781,https://doi.org/10.1109/ICMLA51294.2020.00127
+DEDPUL: Difference-of-Estimated-Densities-based Positive-Unlabeled Learning.,Dmitry Ivanov,782-790,https://doi.org/10.1109/ICMLA51294.2020.00128
+Audio-based Depression Screening using Sliding Window Sub-clip Pooling.,"Ermal Toto, M. L. Tlachac, Francis Lee Stevens, Elke A. Rundensteiner",791-796,https://doi.org/10.1109/ICMLA51294.2020.00129
+Using Text Analytics on Reflective Journaling to Identify Cultural Capitals for STEM Students.,"Karuna Nayak, Shailesh Krishna, Khanh Tran, Marissa Harris, Ana Maria Barrera, Kim Coble, Anagha Kulkarni",797-804,https://doi.org/10.1109/ICMLA51294.2020.00130
+Application of Machine Learning to Gasoline Direct Injection Systems: Towards a Data-Driven Development.,"Massimiliano Botticelli, Robin Hellmann, Paul Jochmann, Karl Georg Stapf, Erik Schünemann",805-810,https://doi.org/10.1109/ICMLA51294.2020.00131
+Resource Management in Cloud Computing Using Machine Learning: A Survey.,"Sepideh Goodarzy, Maziyar Nazari, Richard Han, Eric Keller, Eric Rozner",811-816,https://doi.org/10.1109/ICMLA51294.2020.00132
+"Machine Learning Fairness in Justice Systems: Base Rates, False Positives, and False Negatives.",Jesse Russell,817-820,https://doi.org/10.1109/ICMLA51294.2020.00133
+Pixel-Level Feature Space Modeling and Brain Tumor Detection Using Machine Learning.,"Ritu Joshi, Shan Suthaharan",821-826,https://doi.org/10.1109/ICMLA51294.2020.00134
+A Methodology for Estimating Hospital Intensive Care Unit Length of Stay Using Novel Machine Learning Tools.,"Roberto Williams Batista, Reinaldo Sanchez-Arias",827-832,https://doi.org/10.1109/ICMLA51294.2020.00135
+Districts by Demographics: Predicting U.S. House of Representative Elections using Machine Learning and Demographic Data.,"Britt Richardson, Dean F. Hougen",833-838,https://doi.org/10.1109/ICMLA51294.2020.00136
+Enhance CNN Robustness Against Noises for Classification of 12-Lead ECG with Variable Length.,"Linhai Ma, Liang Liang",839-846,https://doi.org/10.1109/ICMLA51294.2020.00137
+Accelerated Deep Learning on HPCC Systems.,"Robert K. L. Kennedy, Taghi M. Khoshgoftaar",847-852,https://doi.org/10.1109/ICMLA51294.2020.00138
+Detection of Reckless Driving using Deep Learning.,"Arun Chauhan, Shobhan Kumar, Lakshman Mahto, Jagadish D. N.",853-858,https://doi.org/10.1109/ICMLA51294.2020.00139
+Deep Learning based Time Series Forecasting.,"Kushagra Agarwal, Lalasa Dheekollu, Gaurav Dhama, Ankur Arora, Siddhartha Asthana, Tanmoy Bhowmik",859-864,https://doi.org/10.1109/ICMLA51294.2020.00140
+DEAL: Deep Evidential Active Learning for Image Classification.,"Patrick Hemmer, Niklas Kühl, Jakob Schöffer",865-870,https://doi.org/10.1109/ICMLA51294.2020.00141
+Resource-aware On-device Deep Learning for Supermarket Hazard Detection.,"M. G. Sarwar Murshed, James J. Carroll, Nazar Khan, Faraz Hussain",871-876,https://doi.org/10.1109/ICMLA51294.2020.00142
+Generalization of iterative sampling in autoencoders.,"Miguel Solinas, Clovis Galiez, Romain Cohendet, Stephane Rousset, Marina Reyboz, Martial Mermillod",877-882,https://doi.org/10.1109/ICMLA51294.2020.00143
+Estimating the Effect of General Health Checkup Using Uncertainty Aware Attention of Deep Instrument Variable 2-Stage Network.,"SangKyun Jo, Duk Bin Jun, Sungho Park",883-888,https://doi.org/10.1109/ICMLA51294.2020.00144
+Deduplication of Advertisement Assets Using Deep Learning Ensembles.,"Abhijith Chakiat, Nishant Oli, Varun Kumar Modi",889-894,https://doi.org/10.1109/ICMLA51294.2020.00145
+Predicting Residential Energy Consumption Using Wavelet Decomposition With Deep Neural Network.,"Dagimawi D. Eneyew, Miriam A. M. Capretz, Girma T. Bitsuamlak, Syed Mir",895-900,https://doi.org/10.1109/ICMLA51294.2020.00146
+Malware Classification using Recurrence Plots and Deep Neural Network.,"Sara Sartoli, Yong Wei, Shane Hampton",901-906,https://doi.org/10.1109/ICMLA51294.2020.00147
+An Efficient Pipeline for Pruning Convolutional Neural Networks.,"Chengcheng Li, Zi Wang, Hairong Qi",907-912,https://doi.org/10.1109/ICMLA51294.2020.00148
+Improving the Donor Journey with Convolutional and Recurrent Neural Networks.,"Greg Lee, Ajith Kumar Veera Raghavan, Mark Hobbs",913-920,https://doi.org/10.1109/ICMLA51294.2020.00149
+Real Time Data Science Decision Tree Approach to Approve Bank Loan from Lawyer's Perspective.,"P Rajesh, Mansoor Alam, Mansour Tahernezhadi, C. Vikram, P. N. Phaneendra",921-929,https://doi.org/10.1109/ICMLA51294.2020.00150
+Product Recommendation System for Supermarket.,"Pranavi Satheesan, Prasanna S. Haddela, Jesuthasan Alosius",930-935,https://doi.org/10.1109/ICMLA51294.2020.00151
+Valid Prediction Intervals for Course Grades with Conformal Prediction.,"Raphaël Morsomme, Evgueni N. Smirnov",936-941,https://doi.org/10.1109/ICMLA51294.2020.00152
+A Hierarchical Bayesian IRT Analysis of Children's Risk Propensity.,"Chelsea Parlett-Pelleriti, Erik J. Linstead, Emily S. Sumner, Hoang Q. Nguyen, Ryan Stokes, Barbara W. Sarnecka, Susanne M. Jaeggi",942-947,https://doi.org/10.1109/ICMLA51294.2020.00153
+A Survey of Biometric and Machine Learning Methods for Tracking Students' Attention and Engagement.,"Maria Villa, Mikhail I. Gofman, Sinjini Mitra, Ali Almadan, Anoop Krishnan, Ajita Rattani",948-955,https://doi.org/10.1109/ICMLA51294.2020.00154
+Deep Learning Based Vehicle Detection From Aerial Images.,"Hüseyin Seçkin Dikbayir, Halil-Ibrahim Bülbül",956-960,https://doi.org/10.1109/ICMLA51294.2020.00155
+What are they Reporting? Examining Student Cybersecurity Course Surveys through the Lens of Machine Learning.,"Denise Dragos, Suzanna Schmeelk",961-964,https://doi.org/10.1109/ICMLA51294.2020.00156
+Hybrid Approaches for Augmentation of Translation Tables for Indian Languages.,"K. M. Kavitha, Vaishnavi Naik, Sahana Angadi, Sandra Satish, Suman Nayak",965-970,https://doi.org/10.1109/ICMLA51294.2020.00157
+Effects of Number of Filters of Convolutional Layers on Speech Recognition Model Accuracy.,"James Mou, Jun Li",971-978,https://doi.org/10.1109/ICMLA51294.2020.00158
+SummaTRIZ : Summarization Networks for Mining Patent Contradiction.,"Guillaume Guarino, Ahmed Samet, Amir Nafi, Denis Cavallucci",979-986,https://doi.org/10.1109/ICMLA51294.2020.00159
+Towards Hybrid Model for Automatic Text Summarization.,"Ji Pei, Rim Hantach, Sarra Ben Abbès, Philippe Calvez",987-993,https://doi.org/10.1109/ICMLA51294.2020.00160
+Subword Contextual Embeddings for Languages with Rich Morphology.,"Arda Akdemir, Tetsuo Shibuya, Tunga Güngör",994-1001,https://doi.org/10.1109/ICMLA51294.2020.00161
+Main Content Extraction from Web Pages.,"Stanislas Morbieu, Guillaume Bruneval, Mohamed Lacarne, Mohamed Kone, François-Xavier Bois",1002-1005,https://doi.org/10.1109/ICMLA51294.2020.00162
+An Investigation of Fine-tuning Pre-trained Model for MR-to-Text Generation.,"Ting Hu, Christoph Meinel",1006-1009,https://doi.org/10.1109/ICMLA51294.2020.00163
+Toxic Comment Classification For French Online Comments.,"Nadira Boudjani, Yannis Haralambous, Inna Lyubareva",1010-1014,https://doi.org/10.1109/ICMLA51294.2020.00164
+DeL-haTE: A Deep Learning Tunable Ensemble for Hate Speech Detection.,"Joshua Melton, Arunkumar Bagavathi, Siddharth Krishnan",1015-1022,https://doi.org/10.1109/ICMLA51294.2020.00165
+Sequential Transfer Learning for Event Detection and Key Sentence Extraction.,"Anaïs Ollagnier, Hywel T. P. Williams",1023-1027,https://doi.org/10.1109/ICMLA51294.2020.00166
+Understanding Fairness of Gender Classification Algorithms Across Gender-Race Groups.,"Anoop Krishnan, Ali Almadan, Ajita Rattani",1028-1035,https://doi.org/10.1109/ICMLA51294.2020.00167
+BWCFace: Open-set Face Recognition using Body-worn Camera.,"Ali Almadan, Anoop Krishnan, Ajita Rattani",1036-1043,https://doi.org/10.1109/ICMLA51294.2020.00168
+AARef: Exploiting Authorship Identifiers of Micro-Messages with Refinement Blocks.,"Sarp Aykent, Gerry V. Dozier",1044-1050,https://doi.org/10.1109/ICMLA51294.2020.00169
+Evaluation of Local Binary Pattern Algorithm for User Authentication with Face Biometric.,"Tony Gwyn, Mustafa Atay, Kaushik Roy, Albert C. Esterline",1051-1058,https://doi.org/10.1109/ICMLA51294.2020.00170
+Using Graph Embeddings and Machine Learning to Detect Cryptography Misuse in Source Code.,"Gustavo Eloi de Paula Rodrigues, Alexandre Melo Braga, Ricardo Dahab",1059-1066,https://doi.org/10.1109/ICMLA51294.2020.00171
+Image Watermarking with Region of Interest Determination Using Deep Neural Networks.,"Mahnoosh Bagheri, Majid Mohrekesh, Nader Karimi, Shadrokh Samavi, Shahram Shirani, Pejman Khadivi",1067-1072,https://doi.org/10.1109/ICMLA51294.2020.00172
+Towards Obfuscated Malware Detection for Low Powered IoT Devices.,"Daniel Park, Hannah Powers, Benji Prashker, Leland Liu, Bülent Yener",1073-1080,https://doi.org/10.1109/ICMLA51294.2020.00173
+Chromatogram Alignment Algorithm Based on Deep Neural Network and an Application in Bio-aerosol Detection.,Yongyu Yang,1081-1086,https://doi.org/10.1109/ICMLA51294.2020.00174
+Architecture for accurate polyp segmentation in motion-blurred colonoscopy images.,"Makoto Takamatsu, Makoto Hasegawa",1087-1093,https://doi.org/10.1109/ICMLA51294.2020.00175
+A Novel ECG Signal Denoising Filter Selection Algorithm Based on Conventional Neural Networks.,"Chandresh Pravin, Varun Ojha",1094-1100,https://doi.org/10.1109/ICMLA51294.2020.00176
+Al-based BMI Inference from Facial Images: An Application to Weight Monitoring.,"Hera Siddiqui, Ajita Rattani, Dakshina Ranjan Kisku, Tanner Dean",1101-1105,https://doi.org/10.1109/ICMLA51294.2020.00177
+Application of deep learning to distinguish multiple deep brain stimulation parameter configurations for the treatment of Parkinson's disease.,"Robert LeMoyne, Timothy Mastroianni, Donald Whiting, Nestor D. Tomycz",1106-1111,https://doi.org/10.1109/ICMLA51294.2020.00178
+Application of Face Recognition in Tracing COVID-19 Fever Patients and Close Contacts.,"Weijun Tan, Jingfeng Liu",1112-1116,https://doi.org/10.1109/ICMLA51294.2020.00179
+Learning across label confidence distributions using Filtered Transfer Learning.,"Seyed Ali Madani Tonekaboni, Andrew E. Brereton, Zhaleh Safikhani, Andreas Windemuth, Benjamin Haibe-Kains, Stephen MacKinnon",1117-1123,https://doi.org/10.1109/ICMLA51294.2020.00180
+Predicting missing and noisy links via neighbourhood preserving graph embeddings in a clinical knowlegebase.,"Budhaditya Saha, Vedant Mandloi, Shameek Ghosh",1124-1131,https://doi.org/10.1109/ICMLA51294.2020.00181
+On The Application of Domain Adversarial Neural Network to Fault Detection and Isolation in Power Plants.,"Hossein Shahabadi Farahani, Alireza Fatehi, Mahdi Aliyari Shoorehdeli",1132-1138,https://doi.org/10.1109/ICMLA51294.2020.00182
+Fiji-FIN: A Fault Injection Framework on Quantized Neural Network Inference Accelerator.,"Navid Khoshavi, Connor Broyles, Yu Bi, Arman Roohi",1139-1144,https://doi.org/10.1109/ICMLA51294.2020.00183
+Adaptive Data-driven Approach for the Remaining Useful Life Estimation when Few Historical Degradation Sequences are Available.,"Koceila Abid, Moamar Sayed-Mouchaweh, Laurence Cornez",1145-1152,https://doi.org/10.1109/ICMLA51294.2020.00184
+FedAR: Activity and Resource-Aware Federated Learning Model for Distributed Mobile Robots.,"Ahmed Imteaj, M. Hadi Amini",1153-1160,https://doi.org/10.1109/ICMLA51294.2020.00185
+Connecting Distributed Pockets of Energy Flexibility through Federated Computations: Limitations and Possibilities.,"Javad Mohammadi, Jesse Thornburg",1161-1166,https://doi.org/10.1109/ICMLA51294.2020.00186
+Robust Incremental Logistic Regression for Detection of Anomaly Using Big Data.,"Topon Kumar Paul, Ken Ueno",1167-1173,https://doi.org/10.1109/ICMLA51294.2020.00187
+Multi-UCAV Air Combat in Short-Range Maneuver Strategy Generation using Reinforcement Learning and Curriculum Learning.,"Weiren Kong, Deyun Zhou, Kai Zhang, Zhen Yang, Wansha Yang",1174-1181,https://doi.org/10.1109/ICMLA51294.2020.00238
+Geographical feature classification from text using (active) convolutional neural networks.,"Liping Yang, Alan M. MacEachren, Prasenjit Mitra",1182-1198,https://doi.org/10.1109/ICMLA51294.2020.00188
+"Exploratory data analysis of the visitor's arrivals to Chichen-Itza's archaeological site, a case study.","Edgar Avalos-Gauna, León Felipe Palafox-Novack, Dayanara Carrasco-Yépez",1199-1204,https://doi.org/10.1109/ICMLA51294.2020.00189
+Geographic Boosting Tree: Modeling Non-Stationary Spatial Data.,"Liangdong Deng, Malek Adjouadi, Naphtali Rishe",1205-1210,https://doi.org/10.1109/ICMLA51294.2020.00190
+Use of Machine Learning in Exploring Spatial (In)Justices1.,"Debzani Deb, Russell M. Smith",1211-1217,https://doi.org/10.1109/ICMLA51294.2020.00191
+Know-Linking: An approach to generate shared knowledge between several actors in companies application in aerospace manufacturer.,"Elamin Abderrahim, Nada Matta, Hassan Atifi",1218-1223,https://doi.org/10.1109/ICMLA51294.2020.00192
+An embedded deep learning system for augmented reality in firefighting applications.,"Manish Bhattarai, Aura Rose Jensen-Curtis, Manel Martínez-Ramón",1224-1230,https://doi.org/10.1109/ICMLA51294.2020.00193
+HPT-RL: Calibrating Power System Models based on Hierarchical Parameter Tuning and Reinforcement Learning.,"Lei Lin, Wencheng Wu, Zhongkai Shangguan, Safwan Wshah, Ramadan Elmoudi, Beilei Xu",1231-1237,https://doi.org/10.1109/ICMLA51294.2020.00194
+Multi-view Data Mining Approach for Behaviour Analysis of Smart Control Valve.,"Amirmohammad Eghbalian, Shahrooz Abghari, Veselka Boeva, Farhad Basiri",1238-1245,https://doi.org/10.1109/ICMLA51294.2020.00195
+New ANN results on a major benchmark for the prediction of RUL of Lithium Ion batteries in electric vehicles.,"Inès Jorge, Ahmed Samet, Tedjani Mesbahi, Romuald Boné",1246-1253,https://doi.org/10.1109/ICMLA51294.2020.00196
+Technical Indicators and Prediction for Energy Market Forecasting.,"Catherine McHugh, Sonya Coleman, Dermot Kerr",1254-1259,https://doi.org/10.1109/ICMLA51294.2020.00197
+A Real Time Stock tendency prognostication using Quantopian.,"P Rajesh, Mansoor Alam, Mansour Tahernezhadi, K. Vamshikrishna Reddy, K. Chandrakala",1260-1267,https://doi.org/10.1109/ICMLA51294.2020.00198
+Reducing Artifacts in GAN Audio Synthesis.,"Nathan Thiem, Marko Orescanin, James Bret Michael",1268-1275,https://doi.org/10.1109/ICMLA51294.2020.00199
+A Curated Set of Labeled Code Tutorial Images for Deep Learning.,"Adrienne Bergh, Paul Harnack, Abigail Atchison, Jordan Ott, Elia Eiroa-Lledo, Erik Linstead",1276-1280,https://doi.org/10.1109/ICMLA51294.2020.00200
+Defending Against Localized Adversarial Attacks on Edge-Deployed Monocular Depth Estimators.,"Nanda H. Krishna, Praveen Kumar R, Rishi Vardhan K, Vineeth Vijayaraghavan",1281-1288,https://doi.org/10.1109/ICMLA51294.2020.00201
+Adversarial Patch Defense for Optical Flow Networks in Video Action Recognition.,"Adithya Prem Anand, Gokul H, Harish Srinivasan, Pranav Vijay, Vineeth Vijayaraghavan",1289-1296,https://doi.org/10.1109/ICMLA51294.2020.00202
+GRaDL: A Framework for Animal Genome Sequence Classification with Graph Representations and Deep Learning.,"Sai Narayanan, Akhilesh Ramachandran, Sathyanarayanan N. Aakur, Arunkumar Bagavathi",1297-1303,https://doi.org/10.1109/ICMLA51294.2020.00203
+Towards adversarial robustness with 01 loss neural networks.,"Yunzhe Xue, Meiyan Xie, Usman Roshan",1304-1309,https://doi.org/10.1109/ICMLA51294.2020.00204
+Enhancing ontology-based home Care Services platform using Bayesian networks.,"Abdelweheb Gueddes, Mohamed Ali Mahjoub",1310-1316,https://doi.org/10.1109/ICMLA51294.2020.00205
+Gene Subset Selection for Transfer Learning using Bilevel Particle Swarm Optimization.,"Hassen Dhrif, Verónica Bolón-Canedo, Stefan Wuchty",1317-1323,https://doi.org/10.1109/ICMLA51294.2020.00206
+A Study of Deep Learning for Predicting Freeze of Gait in Patients with Parkinson's Disease.,"Alexander M. Yuan, Shayok Chakraborty",1324-1331,https://doi.org/10.1109/ICMLA51294.2020.00207
+Using internet search trends to forecast short term drug overdose deaths: A case study on Connecticut.,"Sumit Mukherjee, Nicholas Becker, William B. Weeks, Juan M. Lavista Ferres",1332-1339,https://doi.org/10.1109/ICMLA51294.2020.00208
+Pandemic spread prediction and healthcare preparedness through financial and mobility data.,"Nidhi Mulay, Vikas Bishnoi, Himanshi Charotia, Siddhartha Asthana, Gaurav Dhama, Ankur Arora",1340-1347,https://doi.org/10.1109/ICMLA51294.2020.00209
+Depression Detection Using Atlas from fMRI Images.,"Marzieh Mousavian, Jianhua Chen, Steven G. Greening",1348-1353,https://doi.org/10.1109/ICMLA51294.2020.00210
+COVID-19 Screening Using Residual Attention Network an Artificial Intelligence Approach.,"Vishal Sharma, Curtis E. Dyreson",1354-1361,https://doi.org/10.1109/ICMLA51294.2020.00211
+Automated Semantic Segmentation of Cardiac Magnetic Resonance Images with Deep Learning.,"Sujata Sinha, Thomas S. Denney, Yang Zhou, Jingyi Zheng",1362-1368,https://doi.org/10.1109/ICMLA51294.2020.00212
+End-to-End Deep Learning for Reliable Cardiac Activity Monitoring using Seismocardiograms.,"Prithvi Suresh, Naveen Narayanan, Chakilam Vijay Pranav, Vineeth Vijayaraghavan",1369-1375,https://doi.org/10.1109/ICMLA51294.2020.00213
+Two-stage and dual-decoder convolutional U-Net ensembles for reliable vessel and plaque segmentation in carotid ultrasound images.,"Meiyan Xie, Yunzhu Li, Yunzhe Xue, Lauren Huntress, William Beckerman, Saum A. Rahimi, Justin W. Ady, Usman W. Roshan",1376-1381,https://doi.org/10.1109/ICMLA51294.2020.00214
+ARC-Net: Activity Recognition Through Capsules.,"Hamed Damirchi, Rooholla Khorrambakht, Hamid D. Taghirad",1382-1388,https://doi.org/10.1109/ICMLA51294.2020.00215
+A Power-aware Approach for Smart Health Monitoring and Decision Support.,"Carmela Comito, Deborah Falcone, Agostino Forestiero",1389-1395,https://doi.org/10.1109/ICMLA51294.2020.00216
+Multiple Instance Learning approaches for Melanoma and Dysplastic Nevi images classification.,"Eugenio Vocaturo, Ester Zumpano",1396-1401,https://doi.org/10.1109/ICMLA51294.2020.00217
+Improving Explainability of Image Classification in Scenarios with Class Overlap: Application to COVID-19 and Pneumonia.,"Edward Verenich, Alvaro Velasquez, Nazar Khan, Faraz Hussain",1402-1409,https://doi.org/10.1109/ICMLA51294.2020.00218
+"Multi-class segmentation of Diabetic Retinopathy lesions: effects of metrics, improvements and loss.",Pedro Furtado,1410-1417,https://doi.org/10.1109/ICMLA51294.2020.00219
+Car Detection Based Algorithm For Automatic Parking Space Detection.,"Raj Kirtibhai Patel, Praveen Meduri",1418-1423,https://doi.org/10.1109/ICMLA51294.2020.00220
+Enabling Rewards for Reinforcement Learning in Laser Beam Welding processes through Deep Learning.,"Markus Schmitz, Florian Pinsker, Alexander Ruhri, Beibei Jiang, Georgij Safronov",1424-1431,https://doi.org/10.1109/ICMLA51294.2020.00221
+A New Clustering-Based Technique for the Acceleration of Deep Convolutional Networks.,"Erion-Vasilis M. Pikoulis, Christos Mavrokefalidis, Aris S. Lalos",1432-1439,https://doi.org/10.1109/ICMLA51294.2020.00222
+SAFL: A Self-Attention Scene Text Recognizer with Focal Loss.,"Bao Hieu Tran, Thanh Le-Cong, Huu Manh Nguyen, Duc Anh Le, Thanh-Hung Nguyen, Phi Le Nguyen",1440-1445,https://doi.org/10.1109/ICMLA51294.2020.00223
+Enhancing Piano Transcription by Dilated Convolution.,"Xian Wang, Lingqiao Liu, Qinfeng Shi",1446-1453,https://doi.org/10.1109/ICMLA51294.2020.00224
+Radar Trajectory-based Air-Writing Recognition using Temporal Convolutional Network.,"Muhammad Arsalan, Avik Santra, Vadim Issakov",1454-1459,https://doi.org/10.1109/ICMLA51294.2020.00225
+On the transferability of adversarial examples between convex and 01 loss models.,"Yunzhe Xue, Meiyan Xie, Usman Roshan",1460-1467,https://doi.org/10.1109/ICMLA51294.2020.00226
+TSV Extrusion Morphology Classification Using Deep Convolutional Neural Networks.,"Brendan Reidy, Golareh Jalilvand, Tengfei Jiang, Ramtin Zand",1468-1474,https://doi.org/10.1109/ICMLA51294.2020.00227
+A Comparative Study of Deep Learning-based RGB-depth Fusion Methods for Object Detection.,"Fahimeh Farahnakian, Jukka Heikkonen",1475-1482,https://doi.org/10.1109/ICMLA51294.2020.00228
+CONVJSSP: Convolutional Learning for Job-Shop Scheduling Problems.,"Tianze Wang, Amir Hossein Payberah, Vladimir Vlassov",1483-1490,https://doi.org/10.1109/ICMLA51294.2020.00229
+MarioDAgger: A Time and Space Efficient Autonomous Driver.,"Farzad Kamrani, Andreas Elers, Mika Cohen, Amir Hossein Payberah",1491-1498,https://doi.org/10.1109/ICMLA51294.2020.00230
+Effective Big Data Caching through Reinforcement Learning.,"Mirco Tracolli, Marco Baioletti, Valentina Poggioni, Daniele Spiga",1499-1504,https://doi.org/10.1109/ICMLA51294.2020.00231
+The Importance of Local Labels Distribution and Dominance for Node Classification in Graph Neural Networks.,"Asmaa Rassil, Hiba Chougrad, Hamid Zouaki",1505-1511,https://doi.org/10.1109/ICMLA51294.2020.00232
+DAT-RNN: Trajectory Prediction with Diverse Attention.,"Zheng Li, Xiaocong Du, Yu Cao",1512-1518,https://doi.org/10.1109/ICMLA51294.2020.00233
+Quantifying Challenges in the Application of Graph Representation Learning.,"Antonia Gogoglou, C. Bayan Bruss, Brian Nguyen, Reza Sarshogh, Keegan E. Hines",1519-1526,https://doi.org/10.1109/ICMLA51294.2020.00234
+"Road Accident Proneness Indicator Based On Time, Weather And Location Specificity Using Graph Neural Networks.","Srikanth Chandar, Anish Reddy, Muvazima Mansoor, Suresh Jamadagni",1527-1533,https://doi.org/10.1109/ICMLA51294.2020.00235
+Graph Neural Networks for Model Recommendation using Time Series Data.,"Aleksandr Pletnev, Rodrigo Rivera-Castro, Evgeny Burnaev",1534-1541,https://doi.org/10.1109/ICMLA51294.2020.00236

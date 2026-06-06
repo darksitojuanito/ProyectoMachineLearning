@@ -1,0 +1,17 @@
+=== Validation Report ===
+Total original records: 230
+Removed non-papers (keynotes, etc.): 3
+Total valid papers (after filter): 227
+--------------------
+Total papers: 227
+Columns found: paper_id, Title, Keywords, Abstract, year, Session
+Empty Titles: 0
+Empty Keywords: 5
+Empty Abstracts: 0
+Empty Sessions: 0
+Matrix shape: (227, 227)
+Is matrix square and matches dataset size? Yes
+Is diagonal 1 (or close to 1)? Yes
+Top 10 count: 10 (Expected: 10)
+Does each Top 10 paper have 3 recommendations? Yes
+Are recommendations strictly outside the Top 10? Yes

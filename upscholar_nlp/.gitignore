@@ -1,0 +1,27 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Modelos pesados (HuggingFace)
+models/
+
+# Archivos de datos autogenerados (matrices, embeddings, reportes)
+# Se excluyen para no saturar GitHub
+data/*.npy
+data/matriz_*.csv
+data/processed_*.csv
+data/top10*.csv
+data/recomendaciones*.csv
+data/embedding_metadata.csv
+data/embedding_validation_report.txt
+
+# Archivos del IDE
+.vscode/
+.idea/

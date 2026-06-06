@@ -1,0 +1,29 @@
+# Entornos virtuales (ignorar en cualquier carpeta)
+**/venv/
+**/env/
+**/.env
+
+# Caché de Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/.pytest_cache/
+
+# Caché del scraper (archivos JSON/HTML descargados temporalmente)
+**/cache/
+
+# Modelos pesados de Inteligencia Artificial
+**/models/
+
+# Archivos de datos autogenerados de UPScholar
+upscholar_nlp/data/*.npy
+upscholar_nlp/data/matriz_*.csv
+upscholar_nlp/data/processed_*.csv
+upscholar_nlp/data/top10*.csv
+upscholar_nlp/data/recomendaciones*.csv
+upscholar_nlp/data/embedding_metadata.csv
+upscholar_nlp/data/embedding_validation_report.txt
+
+# Archivos del IDE
+**/.vscode/
+**/.idea/

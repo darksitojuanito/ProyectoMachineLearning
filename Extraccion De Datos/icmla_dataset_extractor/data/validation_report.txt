@@ -1,0 +1,11 @@
+=========================================
+REPORTE DE VALIDACIÓN - ICMLA 2020
+=========================================
+Total de papers extraídos desde DBLP: 230
+Papers con URL de IEEE: 230
+Papers con Abstract: 230
+Papers sin Abstract: 0
+Papers con Author Keywords: 223
+Papers sin Keywords: 7
+Papers con títulos duplicados (posibles errores en DBLP): 0
+=========================================
