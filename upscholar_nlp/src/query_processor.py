@@ -33,7 +33,13 @@ SPANISH_TO_ENGLISH = {
     "lenguaje natural": "natural language",
     "salud": "health",
     "medicina": "medicine",
-    "energia": "energy"
+    "energia": "energy",
+    "computacion": "computer science",
+    "computación": "computer science",
+    "ciencias de la computacion": "computer science",
+    "ciencias de la computación": "computer science",
+    "informatica": "computer science",
+    "informática": "computer science"
 }
 
 PROTECTED_TERMS = {"cnn", "gcn", "gan", "lstm", "rnn", "u-net", "bert", "yolo", "tf-idf"}

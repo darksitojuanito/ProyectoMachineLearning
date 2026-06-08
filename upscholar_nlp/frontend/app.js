@@ -116,6 +116,26 @@ document.addEventListener('DOMContentLoaded', () => {
         queryDisplay.textContent = data.processed_query;
         renderQueryInfo(data);
         
+        if (data.has_results === false) {
+            resultsList.innerHTML = `
+                <div class="no-results">
+                    <h3>${data.message || "No se encontró información relacionada con tu consulta"}</h3>
+                    <p>El dataset contiene artículos científicos de ICMLA 2020 sobre temas de machine learning y aplicaciones relacionadas. Intenta usar términos más cercanos al contenido del dataset.</p>
+                    <div class="suggestion-tags">
+                        <span class="suggestion-tag">medical image segmentation</span>
+                        <span class="suggestion-tag">graph neural networks</span>
+                        <span class="suggestion-tag">biometric face recognition</span>
+                        <span class="suggestion-tag">reinforcement learning</span>
+                        <span class="suggestion-tag">energy forecasting</span>
+                        <span class="suggestion-tag">computer vision</span>
+                        <span class="suggestion-tag">natural language processing</span>
+                    </div>
+                </div>
+            `;
+            resultsContainer.classList.remove('hidden');
+            return;
+        }
+        
         if (!data.top10 || data.top10.length === 0) {
             resultsList.innerHTML = '<p>No se encontraron resultados.</p>';
             resultsContainer.classList.remove('hidden');
@@ -179,6 +199,26 @@ document.addEventListener('DOMContentLoaded', () => {
         queryDisplay.textContent = data.processed_query + " (por Embeddings)";
         renderQueryInfo(data);
         
+        if (data.has_results === false) {
+            resultsList.innerHTML = `
+                <div class="no-results">
+                    <h3>${data.message || "No se encontró información relacionada con tu consulta"}</h3>
+                    <p>El dataset contiene artículos científicos de ICMLA 2020 sobre temas de machine learning y aplicaciones relacionadas. Intenta usar términos más cercanos al contenido del dataset.</p>
+                    <div class="suggestion-tags">
+                        <span class="suggestion-tag">medical image segmentation</span>
+                        <span class="suggestion-tag">graph neural networks</span>
+                        <span class="suggestion-tag">biometric face recognition</span>
+                        <span class="suggestion-tag">reinforcement learning</span>
+                        <span class="suggestion-tag">energy forecasting</span>
+                        <span class="suggestion-tag">computer vision</span>
+                        <span class="suggestion-tag">natural language processing</span>
+                    </div>
+                </div>
+            `;
+            resultsContainer.classList.remove('hidden');
+            return;
+        }
+
         if (!data.top10 || data.top10.length === 0) {
             resultsList.innerHTML = '<p>No se encontraron resultados.</p>';
             resultsContainer.classList.remove('hidden');

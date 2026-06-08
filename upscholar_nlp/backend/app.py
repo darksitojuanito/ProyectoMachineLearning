@@ -112,11 +112,24 @@ def search_api():
     data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
     top10_df = search_engine.search(processed_query, df, data_dir)
     
-    if top10_df.empty:
+    best_score = top10_df.iloc[0]['score_final'] if not top10_df.empty else 0
+    CLASSIC_MIN_SCORE = 0.03
+    
+    if top10_df.empty or best_score < CLASSIC_MIN_SCORE:
         return jsonify({
             "original_query": original_query, 
             "processed_query": processed_query,
-            "query_processing": query_data,
+            "query_processing": {
+                "was_translated": query_data['was_translated'],
+                "was_corrected": query_data['was_corrected'],
+                "used_wildcards": query_data['used_wildcards'],
+                "corrections": query_data['corrections'],
+                "wildcard_expansions": query_data['wildcard_expansions']
+            },
+            "method": "classic",
+            "has_results": False,
+            "message": "No se encontró información relacionada con tu consulta.",
+            "suggestion": "Prueba con términos relacionados con machine learning, deep learning, computer vision, medical imaging, forecasting, graph neural networks, biometrics o reinforcement learning.",
             "top10": []
         })
         
@@ -161,6 +174,7 @@ def search_api():
             "corrections": query_data['corrections'],
             "wildcard_expansions": query_data['wildcard_expansions']
         },
+        "has_results": True,
         "recommendation_policy": "Recommendations are computed using document-to-document similarity and exclude the current Top 10 search results.",
         "weights": {
             "title": 0.10,
@@ -193,12 +207,26 @@ def search_embeddings_api():
     # Embedding search
     top10_df = search_by_embeddings(processed_query, df, embedding_model, abstract_embeddings, top_n=10)
     
-    if top10_df.empty:
+    best_score = top10_df.iloc[0]['embedding_score'] if not top10_df.empty else 0
+    EMBEDDING_MIN_SCORE = 0.30
+    
+    if top10_df.empty or best_score < EMBEDDING_MIN_SCORE:
         return jsonify({
             "query": original_query,
             "original_query": original_query, 
             "processed_query": processed_query,
-            "query_processing": query_data,
+            "query_processing": {
+                "was_translated": query_data['was_translated'],
+                "was_corrected": query_data['was_corrected'],
+                "used_wildcards": query_data['used_wildcards'],
+                "corrections": query_data['corrections'],
+                "wildcard_expansions": query_data['wildcard_expansions']
+            },
+            "method": "embeddings",
+            "model": "sentence-transformers/all-MiniLM-L6-v2",
+            "has_results": False,
+            "message": "No se encontró información relacionada con tu consulta.",
+            "suggestion": "Prueba con términos relacionados con machine learning, deep learning, computer vision, medical imaging, forecasting, graph neural networks, biometrics o reinforcement learning.",
             "top10": []
         })
         
@@ -241,6 +269,7 @@ def search_embeddings_api():
             "corrections": query_data['corrections'],
             "wildcard_expansions": query_data['wildcard_expansions']
         },
+        "has_results": True,
         "method": "embeddings",
         "model": "sentence-transformers/all-MiniLM-L6-v2",
         "description": "Search based only on Abstract embeddings using cosine similarity.",

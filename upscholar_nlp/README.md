@@ -108,3 +108,13 @@ Para probar la Fase 3 de manera aislada (por consola):
 
 **Integración Web:**
 Si ejecutas `python backend/app.py`, el sistema cargará los embeddings a memoria RAM automáticamente y habilitará la pestaña **Buscador por Embeddings** en la aplicación web, separando visualmente ambos motores.
+
+## Control de Relevancia Mínima
+
+El sistema no fuerza resultados cuando la consulta no tiene relación con el dataset (por ejemplo, buscar términos fuera del dominio de la conferencia ICMLA, como "deportes", "hola" o nombres propios ajenos). 
+
+Para evitar mostrar falsos positivos:
+* **En el buscador clásico** se usa un umbral mínimo estricto sobre el `Score Final` (0.03).
+* **En el buscador por embeddings** se usa un umbral mínimo sobre el `Embedding Score` (0.20).
+
+Si una consulta no supera este umbral mínimo, el motor intercepta la respuesta, anula las recomendaciones y notifica visualmente al usuario indicando que la consulta está fuera del dominio del dataset y ofreciendo sugerencias temáticas afines.
